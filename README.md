@@ -5,6 +5,8 @@
 * Comando git push
 * Sharing files local to Github
 * Command git pull
+* Command git fetch
+*
 
 
 
